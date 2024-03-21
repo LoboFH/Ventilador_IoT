@@ -23,7 +23,6 @@ Este proyecto consiste en la creación de un ventilador inteligente que se activ
 | Sensor de distancia |	1	| HC-SR04 |
 | Microcontrolador |	1	 | Arduino Uno |
 | Motor DC |	1	| 12V, 2A |
-| Controlador PWM |	1	| L298N |
 | Cables |	N/A	| Para conexiones |
 | Fuente de alimentación	| 1	| 12V, 2A |
 | Protoboard |	1	| Para montaje del circuito |
