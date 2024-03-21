@@ -4,7 +4,7 @@
 
 # Integrantes
 - Braulio Franciso Salas González 1222100471
-- Itzel Alejandra Salas Hernández 1222100001
+- Itzel Alejandra Salas Hernández 1222101001
 - Jesús Soto Ledezma 1222100475
 
 # Descripción del proyecto
@@ -39,3 +39,12 @@ Este proyecto consiste en la creación de un ventilador inteligente que se activ
 | NodeRed | Crear un dashboard para mostrar la temperatura, la distancia y la velocidad del ventilador en tiempo real. |
 | Xampp | Crear una base de datos para almacenar históricos de temperatura, distancia y velocidad del ventilador. |
 | Mosquitto | Implementar un protocolo de mensajería MQTT para la comunicación entre el ventilador, los sensores y Node-RED. |
+
+
+## Prototipo
+![image](https://github.com/LoboFH/Ventilador_IoT/assets/135056226/81ecd0b7-d734-4342-9b27-28cb99d3a05a)
+
+
+## Diagrama
+![image](https://github.com/LoboFH/Ventilador_IoT/assets/135056226/8e400beb-9bc9-461c-8dda-ea7c1481e775)
+
